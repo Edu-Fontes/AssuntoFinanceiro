@@ -1,0 +1,2 @@
+# AssuntoFinanceiro
+Uso do NotebookLM
